@@ -22,25 +22,26 @@ I'm an **Entry-Level Front-End Developer** with a passion for creating responsiv
 ### 🛠️ **Projects**
 Here are some of my favorite projects:
 
-1. **[Pomodoro Clock](#)**  
+1. **[Pomodoro Clock](https://bilalhabib020.github.io/fcc-pomodoro-clock/)**  
    A productivity timer app built with React. Features customizable session lengths and a sleek design.  
    [Live Demo](https://bilalhabib020.github.io/fcc-pomodoro-clock/) | [Repo](https://github.com/bilalhabib020/fcc-pomodoro-clock)
 
-2. **[Javascript Calculator](#)**  
+2. **[Javascript Calculator](https://bilalhabib020.github.io/fcc-javascript-calculator/)**  
    A functional calculator with a modern UI, built using React.  
    [Live Demo](https://bilalhabib020.github.io/fcc-javascript-calculator/) | [Repo](https://github.com/bilalhabib020/fcc-javascript-calculator)
 
-3. **[Drum Machine](#)**  
-   A responsive portfolio website showcasing my projects and skills.  
+3. **[Drum Machine](https://bilalhabib020.github.io/fcc-drum-machine/)**  
+   A React-based interactive drum machine with custom sounds and a sleek design.  
    [Live Demo](https://bilalhabib020.github.io/fcc-drum-machine/) | [Repo](https://github.com/bilalhabib020/fcc-drum-machine)
 
 ---
 
 ### 💬 **Let's Connect**
 Feel free to reach out for collaborations, feedback, or just to say hi! 😊  
-- [Phone](tel:923316544401)  
+- [Email](mailto:bilalhabib020@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bilalhabib020/)  
-- [Email Me](mailto:bilalhabib020@gmail.com)
+- [WhatsApp](https://wa.me/923316544401)  
+
 
 ---
 
