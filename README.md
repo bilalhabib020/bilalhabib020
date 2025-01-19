@@ -38,15 +38,15 @@ Here are some of my favorite projects:
 
 ### 💬 **Let's Connect**
 Feel free to reach out for collaborations, feedback, or just to say hi! 😊  
-- [Portfolio](#)  
-- [LinkedIn](#https://www.linkedin.com/in/bilalhabib020/)  
+- [Phone](tel:+923316544401)  
+- [LinkedIn](https://www.linkedin.com/in/bilalhabib020/)  
 - [Email Me](mailto:bilalhabib020@gmail.com)
 
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalhabib020&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhabib020&layout=compact&theme=radical)
 
 ---
 
