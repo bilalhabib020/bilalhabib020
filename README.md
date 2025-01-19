@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Bilal Habib  
 
 I'm an **Entry-Level Front-End Developer** with a passion for creating responsive, interactive, and user-friendly web applications. I have a background in Electrical Engineering, but my journey into front-end development started with hands-on learning from **freeCodeCamp** and building real-world projects.
 
@@ -39,8 +39,8 @@ Here are some of my favorite projects:
 ### 💬 **Let's Connect**
 Feel free to reach out for collaborations, feedback, or just to say hi! 😊  
 - [Portfolio](#)  
-- [LinkedIn](#)  
-- [Email Me](mailto:your.email@example.com)
+- [LinkedIn](#https://www.linkedin.com/in/bilalhabib020/)  
+- [Email Me](mailto:bilalhabib020@gmail.com)
 
 ---
 
@@ -51,7 +51,7 @@ Feel free to reach out for collaborations, feedback, or just to say hi! 😊
 ---
 
 ### 🌟 Fun Fact
-I love exploring creative designs and turning them into functional web applications. When I’m not coding, I enjoy [insert your hobby, e.g., playing chess, watching sci-fi movies, etc.].
+I love exploring creative designs and turning them into functional web applications. When I’m not coding, I enjoy watching football and playing video games.
 
 ---
 
