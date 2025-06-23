@@ -40,7 +40,7 @@ I’ve built and deployed several projects using **React**, integrated third-par
 Here are some of my favorite projects:
 
 1. **[Trend Circuit (E-commerce website)](https://bilalhabib020.github.io/trend-circuit/)**  
-   🛍️ A modern online store with category filtering, cart, and mock checkout built using React, Redux, and Bootstrap.
+   🛍️ A modern online store with category filtering, cart, and mock checkout built using React, Redux, and Bootstrap.                               
    [Live Demo](https://bilalhabib020.github.io/trend-circuit/) | [Repo](https://github.com/bilalhabib020/trend-circuit)
 
 3. **[Weather App](https://bilalhabib020.github.io/weather-app/)**  
@@ -48,11 +48,11 @@ Here are some of my favorite projects:
    [Live Demo](https://bilalhabib020.github.io/weather-app/) | [Repo](https://github.com/bilalhabib020/weather-app)
 
 4. **[Pomodoro Clock](https://bilalhabib020.github.io/fcc-pomodoro-clock/)**  
-   ⏱️ A customizable Pomodoro timer that helps you stay focused and productive, built with React and intuitive controls.
+   ⏱️ A customizable Pomodoro timer that helps you stay focused and productive, built with React and intuitive controls.      
    [Live Demo](https://bilalhabib020.github.io/fcc-pomodoro-clock/) | [Repo](https://github.com/bilalhabib020/fcc-pomodoro-clock)
 
 6. **[Drum Machine](https://bilalhabib020.github.io/fcc-drum-machine/)**  
-   🥁 A fun and interactive digital drum machine built with React. Click or tap to play sounds with visual feedback.
+   🥁 A fun and interactive digital drum machine built with React. Click or tap to play sounds with visual feedback.       
    [Live Demo](https://bilalhabib020.github.io/fcc-drum-machine/) | [Repo](https://github.com/bilalhabib020/fcc-drum-machine)
 
 ---
