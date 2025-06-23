@@ -6,15 +6,20 @@ I'm an **Entry-Level Front-End Developer** with a passion for creating responsiv
 
 ### 🧰 Tech Stack
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### 🚀 **Skills & Tools**
 - **Languages**: HTML, CSS, JavaScript (ES6+)
@@ -35,11 +40,11 @@ I'm an **Entry-Level Front-End Developer** with a passion for creating responsiv
 Here are some of my favorite projects:
 
 1. **[Trend Circuit (E-commerce website)](https://bilalhabib020.github.io/trend-circuit/)**  
-   A productivity timer app built with React. Features customizable session lengths and a sleek design.  
+   🛍️ A modern online store with category filtering, cart, and mock checkout built using React, Redux, and Bootstrap.
    [Live Demo](https://bilalhabib020.github.io/trend-circuit/) | [Repo](https://github.com/bilalhabib020/trend-circuit)
 
 2. **[Weather App](https://bilalhabib020.github.io/weather-app/)**  
-   A functional calculator with a modern UI, built using React.  
+   🌤️ A React-based weather application that fetches real-time data from the OpenWeather API and displays it cleanly.  
    [Live Demo](https://bilalhabib020.github.io/weather-app/) | [Repo](https://github.com/bilalhabib020/weather-app)
 
 3. **[Pomodoro Clock](https://bilalhabib020.github.io/fcc-pomodoro-clock/)**  
@@ -47,7 +52,7 @@ Here are some of my favorite projects:
    [Live Demo](https://bilalhabib020.github.io/fcc-pomodoro-clock/) | [Repo](https://github.com/bilalhabib020/fcc-pomodoro-clock)
 
 3. **[Drum Machine](https://bilalhabib020.github.io/fcc-drum-machine/)**  
-   A React-based interactive drum machine with custom sounds and a sleek design.  
+   🥁 A fun and interactive digital drum machine built with React. Click or tap to play sounds with visual feedback. 
    [Live Demo](https://bilalhabib020.github.io/fcc-drum-machine/) | [Repo](https://github.com/bilalhabib020/fcc-drum-machine)
 
 ---
@@ -68,7 +73,7 @@ Feel free to reach out for collaborations, feedback, or just to say hi! 😊
 ---
 
 ### 🌟 Fun Fact
-I love exploring creative designs and turning them into functional web applications. When I’m not coding, I enjoy watching football and playing video games.
+I love exploring creative designs and turning them into functional web applications. When I’m not coding, I enjoy watching football and movies.
 
 ---
 
