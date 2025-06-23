@@ -43,15 +43,15 @@ Here are some of my favorite projects:
    🛍️ A modern online store with category filtering, cart, and mock checkout built using React, Redux, and Bootstrap.
    [Live Demo](https://bilalhabib020.github.io/trend-circuit/) | [Repo](https://github.com/bilalhabib020/trend-circuit)
 
-2. **[Weather App](https://bilalhabib020.github.io/weather-app/)**  
+3. **[Weather App](https://bilalhabib020.github.io/weather-app/)**  
    🌤️ A React-based weather application that fetches real-time data from the OpenWeather API and displays it cleanly.  
    [Live Demo](https://bilalhabib020.github.io/weather-app/) | [Repo](https://github.com/bilalhabib020/weather-app)
 
-3. **[Pomodoro Clock](https://bilalhabib020.github.io/fcc-pomodoro-clock/)**  
+4. **[Pomodoro Clock](https://bilalhabib020.github.io/fcc-pomodoro-clock/)**  
    ⏱️ A customizable Pomodoro timer that helps you stay focused and productive, built with React and intuitive controls.
    [Live Demo](https://bilalhabib020.github.io/fcc-pomodoro-clock/) | [Repo](https://github.com/bilalhabib020/fcc-pomodoro-clock)
 
-4. **[Drum Machine](https://bilalhabib020.github.io/fcc-drum-machine/)**  
+6. **[Drum Machine](https://bilalhabib020.github.io/fcc-drum-machine/)**  
    🥁 A fun and interactive digital drum machine built with React. Click or tap to play sounds with visual feedback.
    [Live Demo](https://bilalhabib020.github.io/fcc-drum-machine/) | [Repo](https://github.com/bilalhabib020/fcc-drum-machine)
 
@@ -67,8 +67,10 @@ Feel free to reach out for collaborations, feedback, or just to say hi! 😊
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalhabib020&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhabib020&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalhabib020&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhabib020&layout=compact" height="150" />
+</p>
 
 ---
 
